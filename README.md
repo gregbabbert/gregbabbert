@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hello, I'm Greg Babbert
+
+### About me:
+
+##### I'm a fullstack software engineer who graduated from Fullstack Academy's Software Engineering bootcamp. I'm currently looking for my first job as a software engineer or web developer. Please feel free to connect and/or message me through LinkedIn.
+
+[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.maryville.edu%2Fsocialmedia%2Flinkedin-logo-1-550x550-300x300%2F&psig=AOvVaw1Dm3O8OoTMhEMVsPpIjsAG&ust=1640126897949000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjo0oi78_QCFQAAAAAdAAAAABAD">](https://www.linkedin.com/in/greg-babbert/)
 
 <!--
 **gregbabbert/gregbabbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
