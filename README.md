@@ -3,7 +3,9 @@
 ### About me:
 ##### I'm a fullstack software engineer who graduated from Fullstack Academy's Software Engineering bootcamp. I'm currently looking for my first job as a software engineer or web developer. Please feel free to connect and/or message me through LinkedIn.
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="50px" height="50px">](https://www.linkedin.com/in/greg-babbert/)
+- 🤔 I’m looking for help with finding a job
+
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="75px" height="75px">](https://www.linkedin.com/in/greg-babbert/)
 
 <!--
 **gregbabbert/gregbabbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
