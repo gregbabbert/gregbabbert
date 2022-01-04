@@ -3,9 +3,9 @@
 ### About me:
 ##### I'm a fullstack software engineer who graduated from Fullstack Academy's Software Engineering bootcamp. I'm currently looking for my first job as a software engineer or web developer. If you want to talk about a job or anything else please feel free to connect and/or message me through LinkedIn.
 
-#####- 🔭 I’m currently working on a portfolio page
+##### - 🔭 I’m currently working on a portfolio page
 
-#####- 🌱 I’m currently learning three.js
+##### - 🌱 I’m currently learning three.js
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="75px" height="75px">](https://www.linkedin.com/in/greg-babbert/)
 
