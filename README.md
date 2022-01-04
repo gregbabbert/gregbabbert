@@ -17,10 +17,11 @@
 <img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
-
+<div display="block" >
 ### Connect with me here:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" align="left" width="70px" height="70px">](https://www.linkedin.com/in/greg-babbert/)
+</div>
 
 <!--
 **gregbabbert/gregbabbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
