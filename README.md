@@ -20,7 +20,7 @@
 
 <br>
 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" width="70px" height="70px">](https://www.linkedin.com/in/greg-babbert/)
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" align="left" width="70px" height="70px">](https://www.linkedin.com/in/greg-babbert/)
 
 <!--
 **gregbabbert/gregbabbert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
