@@ -22,6 +22,8 @@
 
 <br />  
 
+<br />  
+
 ### Connect with me here:
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/1200px-LinkedIn_icon.svg.png" align="left" display="block" width="70px" height="70px">](https://www.linkedin.com/in/greg-babbert/)
