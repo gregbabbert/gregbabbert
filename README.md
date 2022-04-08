@@ -7,7 +7,7 @@
 ##### - 📫 How to reach me: gdbabbert@gmail.com
 <!-- ##### - 🌱 I’m currently learning three.js -->
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 <div display="inline" >
   <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
@@ -20,7 +20,7 @@
   <img align="left" img src="https://img.icons8.com/color/48/000000/heroku.png"/>
   <img align="left" img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img align="left" img src="https://img.icons8.com/color/48/000000/webpack.png"/>
-</div>
+</div> -->
 
 <br />  
 
