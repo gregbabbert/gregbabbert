@@ -1,7 +1,7 @@
 # Hello, I'm Greg Babbert
 
 ### About me:
-##### I'm a fullstack software engineer who graduated from Fullstack Academy's Software Engineering bootcamp. I'm currently looking for my first job as a software engineer or web developer. If you want to talk about a job or anything else please feel free to connect and/or message me through LinkedIn.
+##### I'm a fullstack software engineer who graduated from Fullstack Academy's Software Engineering bootcamp. If you want to talk please feel free to connect and/or message me through LinkedIn.
 ##### - 🔭 I’m currently working on a web app for soccer coaches
 <!-- ##### - 🤔 I’m looking for help with finding a job -->
 ##### - 📫 How to reach me: gdbabbert@gmail.com
